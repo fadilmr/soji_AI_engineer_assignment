@@ -31,13 +31,6 @@ The extracted rules (ad_rules.json) follow this structure:
   - **excluded_if_modifications**: Modifications that exempt aircraft from this AD
   - **required_modifications**: Modifications required for AD to apply
 
-**Why this design?**
-
-- Simple and human-readable JSON structure
-- Database-friendly (JSONB in PostgreSQL, documents in MongoDB)
-- Extensible for future fields (effective dates, flight hours, etc.)
-- Clear separation between identification and applicability logic
-
 ### 2. Extraction Process
 
 **Step 1: Document Acquisition**
@@ -50,7 +43,7 @@ The extracted rules (ad_rules.json) follow this structure:
 
 1. Parse PDF using OCR API (dotsOCR)
 2. Send document text to LLM with structured prompt
-3. LLM extracts applicability rules and returns JSON
+3. LLM (deployed with vLLM) extracts applicability rules and returns JSON
 4. Save results to `ad_rules.json`
 
 **Why use LLM?**
