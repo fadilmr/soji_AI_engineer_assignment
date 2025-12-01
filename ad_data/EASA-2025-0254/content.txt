@@ -1,0 +1,283 @@
+
+
+
+EASA Safety Publications Tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are not logged in
+
+
+ 
+                    Safety Publications Tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Keyword:
+
+
+
+advanced search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                2025-0254 : [Correction] Wing – Main Landing Gear Retraction Actuator Fitting – Inspection
+                                    
+
+
+
+
+Print
+Download
+
+
+
+
+
+
+
+
+Number
+2025-0254
+
+
+Issued by
+  Europe
+
+
+Issue date
+2025-11-28
+
+
+Effective date
+2025-12-08
+
+
+EASA approval number
+
+
+
+ATA Chapter
+57
+
+
+Approval Holder / Type Designation
+
+
+
+                                        AIRBUS S.A.S.
+                                        
+
+                                                A320
+                                                
+
+                                                        A320-211
+                                                    
+
+                                                        A320-212
+                                                    
+
+                                                        A320-214
+                                                    
+
+                                                        A320-215
+                                                    
+
+                                                        A320-216
+                                                    
+
+                                                        A320-231
+                                                    
+
+                                                        A320-232
+                                                    
+
+                                                        A320-233
+                                                    
+
+
+
+                                                A321
+                                                
+
+                                                        A321-111
+                                                    
+
+                                                        A321-112
+                                                    
+
+                                                        A321-131
+                                                    
+
+
+
+
+
+
+
+
+Revision
+
+                                Not applicable
+    			             
+
+
+Correction
+
+                                This AD is re-published to correct the effective date of this AD.
+    			             
+
+
+Supersedure
+
+                                This AD supersedes EASA AD 2007-0162 dated 12 June 2007, and EASA AD 2014-0169 dated 17 July 2014, including its correction dated 22 July 2014.
+                            
+
+
+Publication(s) and related information
+Airbus SB A320-57-1060 original issue dated 08 December 1992, or Revision 01 dated 26 April 1993, or Revision 02 dated 16 December 1994.
+Airbus SB A320-57-1088 original issue dated 30 September 1996, or Revision 01 dated 17 September 1997, or Revision 02 dated 29 July 1999, or Revision 03 dated 09 February 2001, or Revision 04 dated 06 August 2001.
+Airbus SB A320-57-1089 original issue dated 22 December 1996, or Revision 01 dated 17 April 1997, or Revision 02 dated 06 November 1998, or Revision 03 dated 09 February 2001, or Revision 04 dated 25 April 2025.
+Airbus SB A320-57-1101 original issue dated 24 July 1997, or Revision 01 dated 19 January 1999, or Revision 02 dated 25 October 2001, or Revision 03 dated 30 July 2003, or Revision 04 dated 22 November 2004.
+Airbus SB A320-57-1126 original issue dated 08 August 2003.
+Airbus SB A320-57-1256 original issue dated 27 June 2024.
+The use of later approved revisions of the above-mentioned documents is acceptable for compliance with the requirements of this AD.
+
+
+PAD number
+25-146
+
+
+Remarks
+
+                                1. If requested and appropriately substantiated, EASA can approve Alternative Methods of Compliance for this AD.
+2. This AD was posted on 16 September 2025 as PAD 25-146 for consultation until 14 October 2025. The Comment Response Document can be found in the EASA Safety Publications Tool, in the compressed (zipped) file attached to the record for this AD.
+3. Enquiries regarding this AD should be referred to the EASA Safety Information Section, Certification Directorate. E-mail: ADs[at]easa.europa.eu.
+4. Information about any failures, malfunctions, defects or other occurrences, which may be similar to the unsafe condition addressed by this AD, and which may occur, or have occurred on a product, part or appliance not affected by this AD, can be reported to the EU aviation safety reporting system. This may include reporting on the same or similar components, other than those covered by the design to which this AD applies, if the same unsafe condition can exist or may develop on an aircraft with those components installed. Such components may be installed under an FAA Parts Manufacturer Approval (PMA), Supplemental Type Certificate (STC) or other modification.
+                            
+
+
+
+
+Download attachments:
+
+
+
+                                    EASA_AD__2025_0254_C1.pdf
+                                    (223 kb)
+                                    
+
+
+
+                                    EASA_PAD_25_146.zip
+                                    (1 mb)
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    For help on using this tool, please refer to the help section
+                    For any inquiry regarding ADs, please contact
+                    the EASA AD team
+
+                    To report any bug, broken link or problem with this application, please contact the
+                    webmaster
+
+
+
+
+
+Disclaimer & copyright notice - 2024 © www.easa.europa.eu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

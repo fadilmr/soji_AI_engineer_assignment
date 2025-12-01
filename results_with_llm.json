@@ -1,0 +1,628 @@
+[
+  {
+    "ad_id": "EASA-2025-0254",
+    "applicability_rules": {
+      "aircraft_models": [
+        "A320-211",
+        "A320-212",
+        "A320-214",
+        "A320-215",
+        "A320-216",
+        "A320-231",
+        "A320-232",
+        "A320-233",
+        "A321-111",
+        "A321-112",
+        "A321-131"
+      ],
+      "msn_constraints": null,
+      "excluded_if_modifications": [
+        "Airbus modification 24591 embodied in production",
+        "Airbus Service Bulletin A320-57-1089 Revision 04 accomplished in service",
+        "Airbus modification 24977 embodied in production"
+      ],
+      "required_modifications": [
+        "Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+      ]
+    }
+  },
+  {
+    "ad_id": "FAA-2025-23-53",
+    "applicability_rules": {
+      "aircraft_models": [
+        "MD-11",
+        "MD-11F",
+        "MD-10-10F",
+        "MD-10-30F",
+        "DC-10-10",
+        "DC-10-10F",
+        "DC-10-15",
+        "DC-10-30",
+        "DC-10-30F",
+        "KC-10A",
+        "KDC-10",
+        "DC-10-40",
+        "DC-10-40F"
+      ],
+      "msn_constraints": null,
+      "excluded_if_modifications": [],
+      "required_modifications": []
+    }
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Missing required mod: Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model not applicable"
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "Applicable"
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft model MD-11 is not listed in the AD's applicable aircraft_models."
+  },
+  {
+    "aircraft_index": 1,
+    "model": "MD-11",
+    "msn": 48123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "The aircraft model MD-11 is listed in the applicability models and there are no MSN constraints or modification exclusions."
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "The aircraft model DC-10-30F is not listed in the applicable aircraft_models."
+  },
+  {
+    "aircraft_index": 2,
+    "model": "DC-10-30F",
+    "msn": 47890,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "The aircraft model DC-10-30F is listed in the applicability models and there are no MSN constraints or modification exclusions."
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "The aircraft model Boeing 737-800 is not listed in the AD's applicable aircraft_models."
+  },
+  {
+    "aircraft_index": 3,
+    "model": "Boeing 737-800",
+    "msn": 30123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "The aircraft model Boeing 737-800 is not listed in the AD's applicable aircraft models."
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft lacks the required modification Airbus Service Bulletin A320-57-1089 Revision 04 (modification)."
+  },
+  {
+    "aircraft_index": 4,
+    "model": "A320-214",
+    "msn": 5234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Aircraft model A320-214 is not included in the AD's applicable aircraft models list."
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft has Airbus modification 24591, which is listed in excluded_if_modifications."
+  },
+  {
+    "aircraft_index": 5,
+    "model": "A320-232",
+    "msn": 6789,
+    "modifications": [
+      "mod 24591"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "The aircraft model A320-232 is not listed in the AD's applicable aircraft models."
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Model A320-214 is applicable, but the aircraft has the SB A320-57-1089 Rev 04 modification, which is listed in the excluded_if_modifications, so the AD does not apply."
+  },
+  {
+    "aircraft_index": 6,
+    "model": "A320-214",
+    "msn": 7456,
+    "modifications": [
+      "SB A320-57-1089 Rev 04"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "The aircraft model A320-214 is not listed in the AD's applicable aircraft models."
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft model matches, but required modification Airbus Service Bulletin A320-57-1089 Revision 04 (modification) is not present."
+  },
+  {
+    "aircraft_index": 7,
+    "model": "A321-111",
+    "msn": 8123,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Aircraft model A321-111 is not included in the AD's applicable aircraft models list."
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft model is applicable, but it has the excluded modification 24977, so the AD does not apply."
+  },
+  {
+    "aircraft_index": 8,
+    "model": "A321-112",
+    "msn": 364,
+    "modifications": [
+      "mod 24977"
+    ],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "The aircraft model A321-112 is not listed in the AD's applicable aircraft models."
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft model A319-100 is not included in the applicable aircraft_models list."
+  },
+  {
+    "aircraft_index": 9,
+    "model": "A319-100",
+    "msn": 9234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": false,
+    "reason": "Aircraft model A319-100 is not included in the AD's applicable aircraft models list."
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "EASA-2025-0254",
+    "affected": false,
+    "reason": "Aircraft model MD-10-10F is not listed in the applicable aircraft models."
+  },
+  {
+    "aircraft_index": 10,
+    "model": "MD-10-10F",
+    "msn": 46234,
+    "modifications": [],
+    "ad_id": "FAA-2025-23-53",
+    "affected": true,
+    "reason": "The aircraft model MD-10-10F is listed in the applicable models and there are no MSN constraints, exclusions, or required modifications."
+  }
+]

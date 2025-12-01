@@ -1,0 +1,52 @@
+[
+  {
+    "ad_id": "EASA-2025-0254",
+    "applicability_rules": {
+      "aircraft_models": [
+        "A320-211",
+        "A320-212",
+        "A320-214",
+        "A320-215",
+        "A320-216",
+        "A320-231",
+        "A320-232",
+        "A320-233",
+        "A321-111",
+        "A321-112",
+        "A321-131"
+      ],
+      "msn_constraints": null,
+      "excluded_if_modifications": [
+        "Airbus modification 24591 embodied in production",
+        "Airbus Service Bulletin A320-57-1089 Revision 04 accomplished in service",
+        "Airbus modification 24977 embodied in production"
+      ],
+      "required_modifications": [
+        "Airbus Service Bulletin A320-57-1089 Revision 04 (modification)"
+      ]
+    }
+  },
+  {
+    "ad_id": "FAA-2025-23-53",
+    "applicability_rules": {
+      "aircraft_models": [
+        "MD-11",
+        "MD-11F",
+        "MD-10-10F",
+        "MD-10-30F",
+        "DC-10-10",
+        "DC-10-10F",
+        "DC-10-15",
+        "DC-10-30",
+        "DC-10-30F",
+        "KC-10A",
+        "KDC-10",
+        "DC-10-40",
+        "DC-10-40F"
+      ],
+      "msn_constraints": null,
+      "excluded_if_modifications": [],
+      "required_modifications": []
+    }
+  }
+]
